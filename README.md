@@ -1,6 +1,8 @@
 # AKAI Disk Tools
 
-Created as a way to get around some sketchy software choices available, such as they are. One can find these Akai disks/disk images scattered about, but they won't operate without something that knows how to read the proprietary structure Akai used. Here it is. I hope this helps someone somewhere.
+One can find these Akai disks/disk images scattered about, but they won't operate without something that knows how to read the proprietary structure Akai used. Here it is. I hope this helps someone somewhere.
+
+Created as a way to get around some sketchy software choices available, such as they are.
 
 ---
 
