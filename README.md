@@ -1,9 +1,12 @@
 # AKAI Disk Tools
 
-Read **AKAI S1000 / S3000** sampler disk images (CD-ROM, hard disk, or raw
-dumps) and export the samples to WAV — with root key, tuning, and loop points
-preserved. Pure Python, standard library only. No compiler, no sketchy
-freeware.
+Created as a way to get around some sketchy software choices available, such as they are. One can find these Akai disks/disk images scattered around but they won't operate without something that knows how to to read the proprietary structure Akai used. Here it is. I hope this helps someone somewhere.
+
+---
+
+
+This reads **AKAI S1000 / S3000** sampler disk images and exports the samples to WAV — with root key, tuning, and loop points
+preserved. Pure Python, standard library only.
 
 The `.iso` extension on these images is usually a lie: there's no ISO 9660
 filesystem inside, just a raw image of the sampler's own filesystem, which is
