@@ -1,0 +1,21 @@
+# sample content + disk images (never commit — copyrighted / huge)
+*.wav
+*.iso
+*.img
+*.bin
+*.hds
+out/
+akai_out/
+*_out/
+manifest.tsv
+
+# python
+__pycache__/
+*.pyc
+
+# build artifacts (ship the .exe as a GitHub Release asset, not in the repo)
+dist/
+build_tmp/
+build/
+*.spec
+build.log
